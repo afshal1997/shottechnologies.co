@@ -1,0 +1,51 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://shottechnologies.co/</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/about.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/ourservices.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/ourportfolio.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/ourservices.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/career.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://shottechnologies.co/contactus.php</loc>
+        <lastmod>2022-1-1</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
