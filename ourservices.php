@@ -43,7 +43,7 @@
                                 <i class="fa fa-lightbulb-o pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Creative &amp; Design</b></h5>
-                                    <a class="btn" href="creative-design.php">Read More</a>
+                                    <a class="btn" href="creative-design">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                                 <i class="fa fa-laptop pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Web Development</b></h5>
-                                    <a class="btn" href="web-development.php">Read More</a>
+                                    <a class="btn" href="web-development">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -61,7 +61,7 @@
                                 <i class="fa fa-medium pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Digital Marketing</b></h5>
-                                    <a class="btn" href="digital-marketing.php">Read More</a>
+                                    <a class="btn" href="digital-marketing">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                                 <i class="fa fa-mobile pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>App Development</b></h5>
-                                    <a class="btn" href="app-development.php">Read More</a>
+                                    <a class="btn" href="app-development">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                                 <i class="fa fa-video-camera pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Video Animation</b></h5>
-                                    <a class="btn" href="video-animation.php">Read More</a>
+                                    <a class="btn" href="video-animation">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                                 <i class="fa fa-pencil-square-o pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Content Writing</b></h5>
-                                    <a class="btn" href="content-writing.php">Read More</a>
+                                    <a class="btn" href="content-writing">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -108,7 +108,7 @@
           <h3 class="text-white mb-4 font-weight-normal">We heard that you are thinking about a new project!</h3>
           <p class="text-white mb-4">Call us for a quick chat with our licensed business advisors to reach your full potential while starting something new!.</p>
     
-          <p class="mb-0"><a href="contactus.php" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+          <p class="mb-0"><a href="contactus" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
         </div>
       </div>
     

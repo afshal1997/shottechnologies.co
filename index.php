@@ -48,7 +48,7 @@
                                         development - we make sure everything is on point!
                                     </span></p>
                                 <p class="mb20 mb-xs-10 mt50 mt-xs-0 animateThird">
-                                    <a href="about.php" class="about-btn">Read More</a>
+                                    <a href="about" class="about-btn">Read More</a>
                                 </p>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                                 <i class="fa fa-lightbulb-o pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Creative &amp; Design</b></h5>
-                                    <a class="btn" href="creative-design.php">Read More</a>
+                                    <a class="btn" href="creative-design">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +176,7 @@
                                 <i class="fa fa-laptop pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Web Development</b></h5>
-                                    <a class="btn" href="web-development.php">Read More</a>
+                                    <a class="btn" href="web-development">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                                 <i class="fa fa-medium pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Digital Marketing</b></h5>
-                                    <a class="btn" href="digital-marketing.php">Read More</a>
+                                    <a class="btn" href="digital-marketing">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +197,7 @@
                                 <i class="fa fa-mobile pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>App Development</b></h5>
-                                    <a class="btn" href="app-development.php">Read More</a>
+                                    <a class="btn" href="app-development">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                                 <i class="fa fa-video-camera pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Video Animation</b></h5>
-                                    <a class="btn" href="video-animation.php">Read More</a>
+                                    <a class="btn" href="video-animation">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -215,7 +215,7 @@
                                 <i class="fa fa-pencil-square-o pt-3" aria-hidden="true"></i>
                                 <div class="card-body">
                                     <h5 class="card-title"><b>Content Writing</b></h5>
-                                    <a class="btn" href="content-writing.php">Read More</a>
+                                    <a class="btn" href="content-writing">Read More</a>
                                 </div>
                             </div>
                         </div>

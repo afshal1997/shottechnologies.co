@@ -29,7 +29,7 @@
                     <p>
                         Take a sneak peek into our treasure for better understanding of our skills and expertise.
                     </p>
-                    <a href="web-portfolio.php" class="btn btn-shutter-more text-uppercase bg_blue">View More</a>
+                    <a href="web-portfolio" class="btn btn-shutter-more text-uppercase bg_blue">View More</a>
                 </div>
             </div>
             <div class="col-lg-6 m-auto">
@@ -69,7 +69,7 @@
                         We invite you to break the barrier between content and viewer.
                     </p>
                     <br>
-                    <a href="creative-portfolio.php" class="btn btn-shutter-more text-uppercase bg_blue">View More</a>
+                    <a href="creative-portfolio" class="btn btn-shutter-more text-uppercase bg_blue">View More</a>
                 </div>
             </div>
             <div class="col-lg-6 m-auto">
@@ -88,7 +88,7 @@
             soluta quo, odio
             quaerat.</p>
     
-          <p class="mb-0"><a href="contactus.php" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+          <p class="mb-0"><a href="contactus" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
         </div>
       </div>
     

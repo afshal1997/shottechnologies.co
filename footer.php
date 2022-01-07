@@ -40,12 +40,11 @@
 
                         <ul class="list-unstyled footer-txt">
                               <li> <a href="/" title="Home">Home</a> </li>
-                           <li> <a href="about.php" title="About Shot technologies">About Us</a> </li>
-                           <li> <a href="ourservices.php" title="Our Services">Our Services</a> </li>
-                             <li> <a href="ourportfolio.php" title="Our Portfolio">Our Portfolio</a> </li>
-                              <li> <a href="contactus.php" title="Contact Us">Contact Us</a> </li>
-                            <!--<li> <a href="career.php" title="Career">Careers</a> </li>-->
-                            <!--<li> <a href="blog.php" title="Blog">Blog</a> </li>-->
+                           <li> <a href="about" title="About Shot technologies">About Us</a> </li>
+                           <li> <a href="ourservices" title="Our Services">Our Services</a> </li>
+                             <li> <a href="ourportfolio" title="Our Portfolio">Our Portfolio</a> </li>
+                              <li> <a href="contactus" title="Contact Us">Contact Us</a> </li>
+                            
                         </ul>
                     </div>
 
@@ -53,12 +52,12 @@
                         <h3 class="ftr-head mt-xs-20">Services</h3>
 
                         <ul class="list-unstyled footer-txt">
-                            <li><a href="creative-design.php">Creative & Design</a></li>
-                            <li><a href="web-development.php">Web Development</a></li>
-                            <li><a href="digital-marketing.php">Digital Marketing</a></li>
-                            <li><a href="app-development.php">App Development</a></li>
-                            <li><a href="video-animation.php">Video Animation</a></li>
-                            <li><a href="content-writing.php">Content Writing</a></li>
+                            <li><a href="creative-design">Creative & Design</a></li>
+                            <li><a href="web-development">Web Development</a></li>
+                            <li><a href="digital-marketing">Digital Marketing</a></li>
+                            <li><a href="app-development">App Development</a></li>
+                            <li><a href="video-animation">Video Animation</a></li>
+                            <li><a href="content-writing">Content Writing</a></li>
                         </ul>
                     </div>
 
@@ -66,8 +65,7 @@
                         <h3 class="ftr-head mt-sm-20 mt-xs-20">Support</h3>
 
                         <ul class="list-unstyled footer-txt">
-                            <!--<li><a href="javascript:void(0)">Terms & Condition</a></li>-->
-                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="privacy-policy">Privacy Policy</a></li>
                         </ul>
                     </div>
 

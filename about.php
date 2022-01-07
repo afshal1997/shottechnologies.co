@@ -62,7 +62,7 @@
         <h3 class="text-white mb-4 font-weight-normal">We heard that you are thinking about a new project!</h3>
         <p class="text-white mb-4">Call us for a quick chat with our licensed business advisors to reach your full potential while starting something new!.</p>
 
-        <p class="mb-0"><a href="contactus.php" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+        <p class="mb-0"><a href="contactus" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
       </div>
     </div>
 

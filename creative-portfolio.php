@@ -51,7 +51,7 @@
             soluta quo, odio
             quaerat.</p>
     
-          <p class="mb-0"><a href="contactus.php" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+          <p class="mb-0"><a href="contactus" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
         </div>
       </div>
     

@@ -6,7 +6,7 @@
         <div class="row slider-text align-items-center justify-content-center">
           <div class="col-lg-9 text-center col-sm-12 element-animate">
             <h1 class="mb-4">Content Writing</h1>
-            <p class="custom-breadcrumbs"><a href="ourservices.php">Our Services</a> <span class="mx-3">/</span>Content Writing</p>
+            <p class="custom-breadcrumbs"><a href="ourservices">Our Services</a> <span class="mx-3">/</span>Content Writing</p>
           </div>
         </div>
       </div>
@@ -48,7 +48,7 @@
             <div class="col-lg-7">
               <h3 class="text-white mb-4 font-weight-normal">We heard that you are thinking about a new project!</h3>
               <p class="text-white mb-4">Call us for a quick chat with our licensed business advisors to reach your full potential while starting something new!.</p>
-              <p class="mb-0"><a href="contactus.php" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+              <p class="mb-0"><a href="contactus" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
             </div>
           </div>
         </div>

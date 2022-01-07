@@ -1,8 +1,18 @@
 
-
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php71” package as the default “PHP” programming language.
 <IfModule mime_module>
-  AddHandler application/x-httpd-ea-php71 .php .php7 .phtml
+    AddHandler application/x-httpd-ea-php71 .php .php7 .phtml
+    RewriteEngine On
+    RewriteCond %{SERVER_PORT} 80
+    RewriteRule ^(.*)$ https://shottechnologies.co/$1 [R,L]
+    RewriteRule ^about$ about.php [L]
+    RewriteRule ^ourservices$ ourservices.php [L]
+    RewriteRule ^ourportfolio ourportfolio.php [L]
+    RewriteRule ^career$ career.php [L]
+    RewriteRule ^contactus$ contactus.php [L]
+    RewriteRule ^creative-design$ creative-design.php [L]
+    RewriteRule ^web-development$ web-development.php [L]
+    RewriteRule ^digital-marketing$ digital-marketing.php [L]
+    RewriteRule ^app-development$ app-development.php [L]
+    RewriteRule ^video-animation$ video-animation.php [L]
+    RewriteRule ^content-writing$ content-writing.php [L]
 </IfModule>
-# php -- END cPanel-generated handler, do not edit

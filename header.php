@@ -73,12 +73,11 @@
                                     </ul>
                                     <ul class="nav navbar-nav navbar-right"> 
                                         <li> <a href="/" title="Home">Home</a> </li>
-                                        <li> <a href="about.php" title="About Shot technologies">About Us</a> </li>
-                                        <li> <a href="ourservices.php" title="Our Services">Our Services</a> </li>
-                                        <li> <a href="ourportfolio.php" title="Our Portfolio">Our Portfolio</a> </li>
-                                        <li> <a href="career.php" title="Career">Career</a> </li>
-                                        <!--<li> <a href="blog.php" title="Blog">Blog</a> </li>-->
-                                        <li> <a href="contactus.php" title="Contact Us">Contact Us</a> </li>
+                                        <li> <a href="about" title="About Shot technologies">About Us</a> </li>
+                                        <li> <a href="ourservices" title="Our Services">Our Services</a> </li>
+                                        <li> <a href="ourportfolio" title="Our Portfolio">Our Portfolio</a> </li>
+                                        <li> <a href="career" title="Career">Career</a> </li>
+                                        <li> <a href="contactus" title="Contact Us">Contact Us</a> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -109,11 +108,11 @@
                                                     <a href="/"> <img src="./assets/images/shot-logo.png" alt="shot" class="img-responsive logo-inner"> </a>
                                                     <ul class="list-unstyled">
                                                         <li class="" title="Home"> <a href="/" title="Home" class="" target="_self">Home<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
-                                                        <li class="" title="About Us"> <a href="about.php" title="About Us" class="" target="_self">About Us<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
-                                                        <li class="" title="Services"> <a href="ourservices.php" title="Services" class="services" target="_self">Our Services<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
-                                                        <li class="" title="Portfolio"> <a href="ourportfolio.php" title="Portfolio" class="" target="_self">Our Portfolio<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
-                                                        <li class="" title="Contact Us"> <a href="contactus.php" title="Contact Us" class="" target="_self">Contact Us<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
-                                                        <li class="" title="Career"> <a href="career.php" title="Career" class="" target="_self">Career<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
+                                                        <li class="" title="About Us"> <a href="about" title="About Us" class="" target="_self">About Us<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
+                                                        <li class="" title="Services"> <a href="ourservices" title="Services" class="services" target="_self">Our Services<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
+                                                        <li class="" title="Portfolio"> <a href="ourportfolio" title="Portfolio" class="" target="_self">Our Portfolio<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
+                                                        <li class="" title="Contact Us"> <a href="contactus" title="Contact Us" class="" target="_self">Contact Us<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
+                                                        <li class="" title="Career"> <a href="career" title="Career" class="" target="_self">Career<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>
                                                         <!--<li class="" title="Blog"> <a href="javascript:void(0)" title="Blog" class="" target="_self">Blog<span class="un-line hidden-sm hidden-xs hidden-tab"></span> </a> </li>-->
                                                         <div class="menu-social-links">
                                                             <ul>
