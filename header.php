@@ -1,26 +1,21 @@
 <!DOCTYPE HTML>
 <html lang="en">
-<?php 
-        $base_url = $_SERVER['HTTP_HOST']; 
-        $self = $_SERVER['PHP_SELF'];
-        $arr = explode("/",$self);
-        $with_ext = $arr['2'];
-        $arr2 = explode(".",$with_ext);
-        $page = $arr2['0'];
+<?php
+$base_url = $_SERVER['HTTP_HOST'];
+$self = $_SERVER['PHP_SELF'];
+$arr = explode("/", $self);
+$with_ext = $arr['2'];
+$arr2 = explode(".", $with_ext);
+$page = $arr2['0'];
 ?>
-<head>
-    
-    
-    <title>Shot Technologies</title>
-    
-    
-    <!-- <link rel="canonical" href="index.html"> -->
 
+<head>
+    <title>Shot Technologies</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Language" content="en" />
     <meta name="template" content="content-page" />
     <meta name="robots" content="noindex" />
-    
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="content/dam/web/en/global-resource/designs/css/commonstylesNew.css" rel="stylesheet" />
@@ -30,27 +25,25 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="./assets/css/mouse-cursor.css" rel="stylesheet" />
     <link href="./assets/css/style.css" rel="stylesheet" />
-    
+
     <script type="text/javascript" src="content/dam/web/en/global-resource/designs/js/fix-urls.js"></script>
     <script type="text/javascript" src="clientlibs/web/clientlibs/clientlib-dependencies.js"></script>
     <script type="text/javascript" src="https://unpkg.com/aos@2.3.0/dist/aos.js"></script>
-    
-    <?php 
-        if($page != 'index'){
-         ?>
-            <!--Inner Pages-->
-            <link rel="stylesheet" href="inner/css/animate.css">
-            <!-- Theme Style -->
-             <link rel="stylesheet" href="inner/css/style.css"> 
-         <?php
-        }
+
+    <?php
+    if ($page != 'index') {
+    ?>
+        <link rel="stylesheet" href="inner/css/animate.css">
+        <link rel="stylesheet" href="inner/css/style.css">
+    <?php
+    }
     ?>
 </head>
 
-<body class="page basepage basicpage <?php echo $page?>">
-<div id="cursor">
-  <div class="cursor__circle"></div>
-</div>
+<body class="page basepage basicpage <?php echo $page ?>">
+    <div id="cursor">
+        <div class="cursor__circle"></div>
+    </div>
     <div>
         <div class="root responsivegrid">
 
@@ -67,11 +60,11 @@
                                     </a>
                                 </div>
                                 <div class="header-menu hidden-tab">
-                                    <ul class="nav navbar-nav navbar-right top-nav">                                        
-                                        <li><img src="./assets/images/phone-icon.png"/> <a href="tel:+923333906233" title="+923333906233">+92-333-3906-233</a> </li>
-                                        <li><img src="./assets/images/mail-icon.png"/> <a href="mailto:info@shottechnologies.co" title="info@shottechnologies.co">info@shottechnologies.co</a> </li>
+                                    <ul class="nav navbar-nav navbar-right top-nav">
+                                        <li><img src="./assets/images/phone-icon.png" /> <a href="tel:+923333906233" title="+923333906233">+92-333-3906-233</a> </li>
+                                        <li><img src="./assets/images/mail-icon.png" /> <a href="mailto:info@shottechnologies.co" title="info@shottechnologies.co">info@shottechnologies.co</a> </li>
                                     </ul>
-                                    <ul class="nav navbar-nav navbar-right"> 
+                                    <ul class="nav navbar-nav navbar-right">
                                         <li> <a href="/" title="Home">Home</a> </li>
                                         <li> <a href="about" title="About Shot technologies">About Us</a> </li>
                                         <li> <a href="ourservices" title="Our Services">Our Services</a> </li>
@@ -117,11 +110,11 @@
                                                         <div class="menu-social-links">
                                                             <ul>
                                                                 <li>
-                                                                <a title="Facebook" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom" href="https://www.facebook.com/Shot-Technologies-Pvt-Ltd-108207918017087">
-                                                                    <i class="fa fa-facebook"></i>
-                                                                </a>
+                                                                    <a title="Facebook" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom" href="https://www.facebook.com/Shot-Technologies-Pvt-Ltd-108207918017087">
+                                                                        <i class="fa fa-facebook"></i>
+                                                                    </a>
                                                                 </li>
-                            
+
                                                                 <li>
                                                                     <a title="instagram" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom" href="https://www.instagram.com/shottechnologies/">
                                                                         <i class="fa fa-instagram"></i>
